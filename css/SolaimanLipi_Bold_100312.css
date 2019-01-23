@@ -1,0 +1,12 @@
+@charset "utf-8";
+@font-face {
+ font-family: 'SolaimanLipi_Bold_100312';
+ src: url('fonts/SolaimanLipi_Bold_100312.eot');
+ src: url('fonts/SolaimanLipi_Bold_100312.eot') format('embedded-opentype'),
+ url('fonts/SolaimanLipi_Bold_100312.woff2') format('woff2'),
+ url('fonts/SolaimanLipi_Bold_100312.woff') format('woff'),
+ url('fonts/SolaimanLipi_Bold_100312.ttf') format('truetype'),
+ url('fonts/SolaimanLipi_Bold_100312.svg#SolaimanLipi_Bold_100312') format('svg');
+}
+
+body{font-family:'museo-sans','SolaimanLipi_Bold_100312';}
